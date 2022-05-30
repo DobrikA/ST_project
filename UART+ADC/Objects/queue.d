@@ -1,0 +1,14 @@
+.\objects\queue.o: ..\Third_party_lib\FreeRTOS\FreeRTOS_8.0.1\Source\queue.c
+.\objects\queue.o: E:\Programs\Keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\queue.o: E:\Programs\Keil5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\queue.o: ..\Third_party_lib\FreeRTOS\FreeRTOS_8.0.1\Source\include\FreeRTOS.h
+.\objects\queue.o: E:\Programs\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\queue.o: E:\Programs\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\queue.o: ..\Third_party_lib\FreeRTOS\FreeRTOS_8.0.1\Source\include\projdefs.h
+.\objects\queue.o: .\user_rtos\inc\FreeRTOSConfig.h
+.\objects\queue.o: ..\Third_party_lib\FreeRTOS\FreeRTOS_8.0.1\Source\include\portable.h
+.\objects\queue.o: ..\Third_party_lib\FreeRTOS\FreeRTOS_8.0.1\Source\portable\RVDS\ARM_CM4F\portmacro.h
+.\objects\queue.o: ..\Third_party_lib\FreeRTOS\FreeRTOS_8.0.1\Source\include\mpu_wrappers.h
+.\objects\queue.o: ..\Third_party_lib\FreeRTOS\FreeRTOS_8.0.1\Source\include\task.h
+.\objects\queue.o: ..\Third_party_lib\FreeRTOS\FreeRTOS_8.0.1\Source\include\list.h
+.\objects\queue.o: ..\Third_party_lib\FreeRTOS\FreeRTOS_8.0.1\Source\include\queue.h
