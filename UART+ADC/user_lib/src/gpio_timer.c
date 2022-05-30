@@ -15,7 +15,7 @@ void SetAdcFrequency(TIM_TypeDef *TIM_NUM, uint32_t frequency)
 	TIM_SetAutoreload(TIM_NUM, tim_period);
 }
 /**
-	*	@brief
+	*	@brief Init TIM3 (update mode + interrupt) for modify port state
 	*/
 void GpioCntrlTimerInit(void)
 {
